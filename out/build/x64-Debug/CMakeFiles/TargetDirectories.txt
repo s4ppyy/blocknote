@@ -1,0 +1,3 @@
+C:/Users/Danee/source/repos/testLab22/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Danee/source/repos/testLab22/out/build/x64-Debug/CMakeFiles/testLab22.dir
+C:/Users/Danee/source/repos/testLab22/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
